@@ -16,4 +16,4 @@ It's as simple as calling JSON on a basic error.
 
 The default `DefaultError` changes the status code of the response on `Render`, then is marshalled.
 
-This was inspired by [render](github.com/go-chi/render), but simplified and modified to fit the usual simple error handling
+This was inspired by [render](https://github.com/go-chi/render), but simplified and modified to fit the usual simple error handling
